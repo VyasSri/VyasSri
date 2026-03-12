@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @VyasSri
 - 👀 I’m interested in game development and website development
-- 🌱 I’m currently learning the Django Framework
 - 💞️ I’m looking to collaborate on any project ideas and am completely open to learn new things
-- 📫 How to reach me : svyas1718@gmail.com
+- 📫 How to reach me : vyas.sriman@utexas.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
